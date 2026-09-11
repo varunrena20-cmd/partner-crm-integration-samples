@@ -765,7 +765,7 @@
     "Identifier": "AWSNetworkSecurityManager",
     "Name": "AWS Network Security Manager",
     "Family": "Security, Identity & Compliance",
-    "Description": "AWS Network Security Manager automates security policy definition and deployment across the AWS network security portfolio."
+    "Description": "AWS Network Security Manager automates security policy definition and deployment."
   },
   {
     "Identifier": "AWSNeuron",
@@ -1386,6 +1386,12 @@
     "Description": "OpenAI's AI coding agent running natively on Bedrock with AWS enterprise security and governance."
   },
   {
+    "Identifier": "AmazonBedrockOpenAIDaybreakCyber",
+    "Name": "Amazon Bedrock - OpenAI Daybreak (Cyber)",
+    "Family": "AI/ML",
+    "Description": "OpenAI's Daybreak models on Amazon Bedrock provide frontier AI capabilities for advanced, authorized cybersecurity work"
+  },
+  {
     "Identifier": "AmazonBedrockOpenAIModels",
     "Name": "Amazon Bedrock - OpenAI Models",
     "Family": "AI/ML",
@@ -1419,7 +1425,7 @@
     "Identifier": "AmazonBedrockWebSearch",
     "Name": "Amazon Bedrock - Web Search",
     "Family": "AI/ML",
-    "Description": "Web Search is an AWS-native tool that provides live, real-time web ground capabilities while keeping data inside the customer's AWS environment, available on both Amazon Bedrock and AgentCore."
+    "Description": "Web Search on Bedrock is a built-in tool that grounds foundation model responses in current web knowledge while keeping data inside the customer's AWS environment"
   },
   {
     "Identifier": "AmazonBedrockWriterModels",
